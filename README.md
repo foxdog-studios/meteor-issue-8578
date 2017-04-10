@@ -1,4 +1,4 @@
-(Meteor Issue 8578)[https://github.com/meteor/meteor/issues/8578]
+[Meteor Issue 8578](https://github.com/meteor/meteor/issues/8578)
 
 Setup
 =====
@@ -99,4 +99,4 @@ var DerivedClass = function (_BaseClass) {                                      
 
 The wrapped method is correctly transpiled. The application still wont run
 because of another (now fixed) issue (see issue
-(8422)[https://github.com/meteor/meteor/issues/8422]).
+[8422](https://github.com/meteor/meteor/issues/8422)).

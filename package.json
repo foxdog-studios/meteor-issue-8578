@@ -1,0 +1,15 @@
+{
+  "name": "meteor-issue-8578",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4",
+    "tcomb": "^3.2.20"
+  },
+  "devDependencies": {
+    "babel-plugin-tcomb": "^0.3.25"
+  }
+}

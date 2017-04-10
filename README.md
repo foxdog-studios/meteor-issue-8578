@@ -1,8 +1,5 @@
 [Meteor Issue 8578](https://github.com/meteor/meteor/issues/8578)
 
-Setup
-=====
-
 ```shell
 $ cd /path/to/meteor-issue-8578
 $ meteor npm install
